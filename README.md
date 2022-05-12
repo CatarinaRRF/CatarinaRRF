@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Catarina, and welcome to my GitHub bio.
 - 🌱 I’m currently learning in the Data Science field and in biotechnology
-- 💞️ I’m looking to collaborate on Data Science projects with focus in enviroment science and genetics
+- 💞️ I’m looking to collaborate on Data Science projects with focus in enviroment science and bioinformatics
 - 🇬🇧 I'm based in Belo Horizonte, Brasil.
