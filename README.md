@@ -1,4 +1,4 @@
-#A passionate Data Scientist from Brazil
+  **A passionate Data Scientist from Brazil**
 
 - 👋 Hi, I’m Catarina, i am a braziliam student in biotech and a Data Science learner. Welcome to my GitHub bio.
 - 👀 I’m interested in UX & design and bioinformatics
