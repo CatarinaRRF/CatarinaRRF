@@ -9,5 +9,9 @@
 - 💬 Know about my experiences `LinkedIn`
 
 ---
-
+## Relevant repositories
+- [Churn de Clientes](https://github.com/CatarinaRRF/ChurnOfClients-AluraVoz)
+- []
+- []
+---
 ![Catarina Freitas](https://github-readme-stats.vercel.app/api?username=CatarinaRRF&show_icons=true&theme=tokyonight)
