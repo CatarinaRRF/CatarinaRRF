@@ -7,3 +7,7 @@
 - 👨‍💻 I’m looking to collaborate on Data Science projects with focus in enviroment science and bioinformatics
 - 🇧🇷  I'm based in Belo Horizonte, Brasil.
 - 💬 Know about my experiences `LinkedIn`
+
+---
+
+![Catarina Freitas](https://github-readme-stats.vercel.app/api?username=CatarinaRRF&show_icons=true&theme=tokyonight)
