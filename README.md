@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CatarinaRRF
-- 👀 I’m interested in the Data Science field and in biotechnology
-- 🌱 I’m currently learning pyton
-- 💞️ I’m looking to collaborate on Data Science projects with focos in enviroment science and genetics
+- 👋 Hi, I’m Catarina, and welcome to my GitHub bio.
+- 🌱 I’m currently learning in the Data Science field and in biotechnology
+- 💞️ I’m looking to collaborate on Data Science projects with focus in enviroment science and genetics
+- 🇬🇧 I'm based in Belo Horizonte, Brasil.
