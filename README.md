@@ -10,7 +10,7 @@
 
 ---
 ## Relevant repositories
-- [Churn de Clientes](https://github.com/CatarinaRRF/ChurnOfClients-AluraVoz)
+- [Churn of Clientes](https://github.com/CatarinaRRF/ChurnOfClients-AluraVoz)
 - []
 - []
 ---
