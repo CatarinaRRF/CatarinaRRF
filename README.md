@@ -1,4 +1,4 @@
-# **A curious Data Scientist from Brazil**
+# <img src="images/Catarina Freitas.png" alt="banner that says Hello, my name is Catarina. Nice to meet you">
 
 ## Here are some quick things about me:
 - 👋 Hi, I’m Catarina, i am a braziliam student in biotech and a Data Science learner. Welcome to my GitHub bio.
