@@ -1,9 +1,9 @@
 <img src="images/Catarina Freitas.png" alt="banner that says Hello, my name is Catarina. Nice to meet you">
 
 # Here are some quick things about me:
-- 👋 I am a braziliam student in biotech and a Data Science learner. Welcome to my GitHub bio.
+- 👋 I am a braziliam biotech and bioinformatic researcher. Welcome to my GitHub bio.
 - 👀 I’m interested in Data Science and bioinformatics
-- 🌱 I’m currently learning SQL and BI Power
+- 🌱 I’m currently learning AWS
 - 👨‍💻 I’m looking to collaborate on Data Science projects with focus in enviroment science and bioinformatics
 - 📗 My Pronouns are: She/Her
 - 🇧🇷  I'm based in Belo Horizonte, Brasil.
